@@ -1,0 +1,12 @@
+.env
+venv/
+__pycache__/
+*.pyc
+.venv/
+
+# Local editor settings; retain portable frontend extension recommendations.
+.vscode/
+!frontend/.vscode/
+
+# Temporary publishing audit script.
+audit_publish.py
